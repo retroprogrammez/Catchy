@@ -1,0 +1,29 @@
+			CATCHY - TO DO LIST
+			===================
+
+EVOLUTIONS
+==========
+
+- Utilisation des scores ?						NE
+- Murs variables                                           		NE
+
+
+BUGS
+====
+- Nettoyer les sprites des monstres et bonus				NE
+
+
+AMELIORATION DU CODE
+===================
+Entêtes : mention licence open source					NE
+
+
+
+VERSION V2
+==========
+- Son pour les bonus							V2
+- Dessins pour quelques bonus						V2
+- Nouveaux bonus : invulnerabilité, passe muraille			V2
+- Effets du monstre bizarre : ralentissement, teleportation		V2
+- Malus : apparition de plein de monstres en simultané !		V2
+
